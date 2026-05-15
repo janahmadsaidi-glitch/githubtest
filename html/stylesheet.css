@@ -1,0 +1,43 @@
+img {
+            width: 75;
+}
+
+body {
+    background-color: rgb(143, 175, 224);
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight:bold;
+
+    
+}
+
+h1 {
+   font-family: Nabla;
+}
+
+div.yellow {
+    background-color: yellow;
+    display: inline-block;
+    width: 250px;
+}
+
+p.demo {
+    font-family: 'jim nightshade', cursive
+    font-style: normal;
+    font-weight: normal;
+}
+ table, th, td {
+    border: 2px solid black
+    border-collapse: collapse; 
+ }
+ td {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    padding: 10px
+ }
+ th {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 52px;
+    padding: 10px;
+ }

@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(3, 150, 150);
+}
+.container{
+  width: 700px;
+  margin: auto;
+  padding: 20px;
+  border: 3px; solid grid-template-columns: ;
+  background-color: rgb(221, 98, 98);
+  border-radius: 10px;
+}
+p{ 
+    rubik-marker-hatch-regular {
+  font-family: "Rubik Marker Hatch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1{
+    .rubik-mono-one-regular {
+  font-family: "Rubik Mono One", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+}
+h2{
+    font-family: 'playfair display'serif;
+    font-size: 2em; 
+}
+p{
+    .rubik-broken-fax-regular {
+  font-family: "Rubik Broken Fax", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+}
+p{
+ font-family: "Rubik mono one", sans-serif; 
+}

@@ -3,7 +3,7 @@ img {
 }
 
 body {
-    background-color: rgb(143, 175, 224);
+    background-color: rgb(103, 145, 209);
     font-family: 'Courier New', Courier, monospace;
     font-style: italic;
     font-weight:bold;
@@ -14,6 +14,7 @@ body {
 h1 {
    font-family: Nabla;
 }
+<table 
 
 div.yellow {
     background-color: yellow;
@@ -26,9 +27,15 @@ p.demo {
     font-style: normal;
     font-weight: normal;
 }
+div.table{
+   display: inline-block;
+   width: 70;
+   justify-content:center;
+}
  table, th, td {
     border: 2px solid black
     border-collapse: collapse; 
+    border: radius 15%;
  }
  td {
     font-family: Arial, Helvetica, sans-serif;

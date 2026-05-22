@@ -9,6 +9,11 @@ h1 {
    color: #333;
    margin: 5px;
 }
+.main-title {
+   text-align: left;
+   vertical-align: auto;
+   font-size: bold;
+}
 
 .nav-link {
    color: rgb(38, 38, 157);
@@ -70,7 +75,8 @@ h1 {
 }
 
 .table-paragraph p {
-   margin: 0;
-   font-size: 12px;
+   text-align: left;
+   vertical-align: auto;
+   font-size: 12;
    line-height: 1.4;
 }

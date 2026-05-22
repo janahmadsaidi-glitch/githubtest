@@ -1,0 +1,76 @@
+body {
+   font-family: Arial, sans-serif;
+   margin: 20px;
+   background-color: #fcfcfc;
+   color: #333;
+}
+
+h1 {
+   color: #333;
+   margin: 5px;
+}
+
+.nav-link {
+   color: rgb(38, 38, 157);
+   text-decoration: none;
+   font-size: 14px;
+}
+
+.nav-link:hover {
+   text-decoration: underline;
+}
+
+.data-table {
+   border-collapse: collapse;
+   width: 100%;
+   max-width: 900px;
+   margin-top: 20px;
+   background-color: floralwhite;
+}
+
+.data-table th,
+.data-table td {
+   border: 1px solid #000000;
+   padding: 8px;
+   text-align: right;
+   font-size: 13px;
+}
+
+.image-cell {
+   text-align: center;
+   vertical-align: middle;
+   padding: 0;
+   width: 152px;
+}
+
+.main-title {
+   text-align: center;
+   font-weight: bold;
+   font-size: 16px;
+}
+
+.years-row th {
+   text-align: center;
+   font-weight: bold;
+}
+
+.country.header {
+   background-color: #5bc0de;
+   color: white;
+   text-align: left;
+   font-weight: normal;
+   width: 180px;
+}
+
+.table-paragraph {
+   background-color: #a1c181;
+   color: #ffffff;
+   text-align: left;
+   padding: 12px;
+}
+
+.table-paragraph p {
+   margin: 0;
+   font-size: 12px;
+   line-height: 1.4;
+}

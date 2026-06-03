@@ -1,55 +1,48 @@
+
 body {
-    background-color: rgb(3, 150, 150);
+    font-family: 'Poppins', Arial, sans-serif;
+    background-color: #f4efe6;
     margin: 0;
     padding: 20px;
-    font-family: Arial, sans-serif;
 }
 
-.container {
-    width: 700px;
-    margin: auto;
-    padding: 20px;
-    border: 3px solid black;
-    background-color: rgb(221, 98, 98);
-    border-radius: 10px;
-}
+
 h1 {
-    font-family: "Rubik Mono One", monospace;
+    font-family: 'Rubik Mono One', sans-serif;
+    text-align: center;
+    font-size: 2.2rem;
+}
+
+
+h2 {
+    font-family: 'Lora', serif;
     text-align: center;
 }
-h2 {
-    font-family: Georgia, serif;
-    font-size: 2em;
-}
+
+
 p {
-    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
     line-height: 1.6;
 }
+
+
 .red {
-    color: red;
+    color: darkred;
+    font-family: 'Lora', serif;
 }
+
+.centered {
+    text-align: center;
+    font-weight: bold;
+}
+
+
 .italic {
     font-style: italic;
 }
-.centered {
-    text-align: center;
-}
-blockquote {
-    background: white;
-    padding: 10px;
-    border-left: 5px solid black;
-    font-style: italic;
-}
 
-ul {
-    font-size: 18px;
-}
-.mountian-image {
-    text-align: center;
-    margin-top: 20px;
-}
-.mountian-image img {
-    width: 500px;
-    border: 4px solid green;
+
+.mountain-image img {
+    width: 100%;
     border-radius: 10px;
 }

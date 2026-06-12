@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Services | Elite Fitness Coach</title>
+  <link rel="stylesheet" href="css/final.css">
+</head>
+<body>
+  <nav>
+    <div class="logo">
+      <span class="logo-icon">🏋️</span>
+      <div class="logo-text">
+        <h1>Elite Fitness</h1>
+        <p>Fitness Coach</p>
+      </div>
+    </div>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="services.html" class="active">Services</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section class="services">
+    <div class="services-header">
+      <div class="section-tag">What I Offer</div>
+      <h2 class="section-title">Our Services</h2>
+      <div class="red-bar services-bar"></div>
+    </div>
+    <div class="services-grid">
+      <div class="service-card">
+        <span class="service-icon">🏋️</span>
+        <h3>Personal Training</h3>
+        <p>One-on-one training programs tailored to your specific goals and fitness level.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">跑</span>
+        <h3>Weight Loss</h3>
+        <p>Effective programs to help you lose weight, boost metabolism, and feel great.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">💪</span>
+        <h3>Strength Training</h3>
+        <p>Build muscle, gain strength and improve your overall performance and endurance.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">💻</span>
+        <h3>Online Coaching</h3>
+        <p>Train anywhere in the world with custom workout plans and 24/7 support.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    </footer>
+</body>
+</html>
